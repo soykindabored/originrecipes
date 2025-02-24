@@ -1,0 +1,30 @@
+img {
+    width: 350px;
+    height: 350px;
+}
+
+h1 {
+    background-color: darkblue;
+    color: bisque;
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+.para {
+    color: red;
+
+}
+.unorder {
+        color: darkgoldenrod;
+
+
+}
+a.button {
+        padding: 2px 5px;
+        border: 1px outset;
+        color: black;
+        background-color: burlywood;
+
+}
