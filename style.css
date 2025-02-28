@@ -1,30 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* recipe dish img */
 img {
     width: 350px;
     height: 350px;
+    margin: 10px;
 }
 
 h1 {
     background-color: darkblue;
     color: bisque;
+    width: 250px;
+    margin: 10px;
+    padding: 50px;
+    border: 10px;  
 }
 
 h2 {
+    background: burlywood;
     color: darkolivegreen;
+    margin: 10px;
+    padding: 50px;
+    width: 250px;
 }
+
+
 
 .para {
+    background: burlywood;
+    width: 250px;
     color: red;
-
+    margin: 10px;
+    padding: 50px;
 }
+
 .unorder {
+        background: burlywood;
         color: darkgoldenrod;
-
-
+        width: 250px;
+        margin: 10px;
+        padding: 50px;
+        
 }
+
 a.button {
         padding: 2px 5px;
         border: 1px outset;
         color: black;
         background-color: burlywood;
-
+        margin: 50px;
+        display: block;
+        width: 250px;
+        
 }
+
